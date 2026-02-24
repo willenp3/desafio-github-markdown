@@ -7,7 +7,7 @@ Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui t
 **Objetivos:**
 
 1. **Criar sua conta no Github:**
-   - Essencial para alcançarmos nossos objetivos.
+   - Essencial para alcançarmos nossos objetivos. Então vamos nessa!
 
 2. **Criar um Repositório:**
    - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
