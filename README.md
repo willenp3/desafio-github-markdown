@@ -1,7 +1,7 @@
 # desafio-github-markdown
 Repositório foi criado para praticas focado em um bootcamp na Dio
 
-## Olá mundo meu nome é **Willen Silva de Souza**, sou estudante de Sisstemas da informação pela Unemat. 
+## Olá mundo meu nome é **Willen Silva de Souza**, sou estudante de Sistemas da informação pela Unemat. 
 
 Atualmente moro em Sinop-MT e estou cumprindo o 7° periodo da minha faculdade, faltando apenas 2 semestres para a minha formatura.
 
